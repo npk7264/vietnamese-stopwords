@@ -1465,7 +1465,6 @@ tắp_tắp
 tọt
 tốc_tả
 tối_ư
-tốt
 tốt_bạn
 tốt_bộ
 tốt_hơn
