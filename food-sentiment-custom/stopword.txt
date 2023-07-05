@@ -271,7 +271,6 @@ nhất_loạt
 thảo_nào
 làm_sao
 bài_bác
-thái_độ
 phót
 qua_lần
 cá_nhân
@@ -1062,7 +1061,6 @@ thế_à
 ở_nhờ
 thật_thà
 tựu_trung
-hơi
 hơn
 phần_sau
 hay_nói
