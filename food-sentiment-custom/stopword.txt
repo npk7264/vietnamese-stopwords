@@ -25,7 +25,6 @@ mở_nước
 chơi_họ
 bất_giác
 phần
-cao
 nhà_ngoài
 nói_là
 chẳng_lẽ
@@ -195,7 +194,6 @@ bác
 tốt_hơn
 tin_thêm
 trước
-thấp
 mấy
 từ_từ
 ô_kìa
@@ -958,11 +956,9 @@ tay_quay
 bà_ấy
 phải_người
 tới_gần
-giá
 nói_trước
 như_ai
 sáng_rõ
-gần
 phía_trong
 tại_vì
 bằng_nào
@@ -1389,8 +1385,6 @@ người_người
 chị_ấy
 nữa
 bấy_nay
-chất_lượng
-xa
 vung_tán_tàn
 nay
 đã_lâu
