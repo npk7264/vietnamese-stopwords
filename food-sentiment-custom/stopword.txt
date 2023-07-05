@@ -569,7 +569,6 @@ những_như
 vô_vàn
 lên_số
 phía_trước
-thử
 cả_nghĩ
 bản
 chắc_người
@@ -1201,7 +1200,6 @@ từ_thế
 tin
 về
 cơ_chừng
-nên
 nước_lên
 nhanh
 tính_từ
